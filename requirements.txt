@@ -1,6 +1,5 @@
 Cython==0.26.1
-dask==0.15.3
-decorator==4.1.2
+decorator==4.3.2
 distributed==1.19.1
 docutils==0.14
 entrypoints==0.2.3
